@@ -1,0 +1,7 @@
+C:\Users\Joey\source\repos\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\Joey\source\repos\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\Joey\source\repos\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\Joey\source\repos\LabProject\LabProject\obj\Debug\LabProject.csprojAssemblyReference.cache
+C:\Users\Joey\source\repos\LabProject\LabProject\obj\Debug\LabProject.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\Joey\source\repos\LabProject\LabProject\obj\Debug\LabProject.pdb
